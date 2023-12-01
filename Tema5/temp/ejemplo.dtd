@@ -1,0 +1,8 @@
+<!ELEMENT libro (autor,editor)>
+<!ELEMENT autor (nombre*,edad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT editor (nombre,edad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ATTLIST nombre tipo CDATA #IMPLIED>
+<!ATTLIST nombre pais CDATA #IMPLIED>

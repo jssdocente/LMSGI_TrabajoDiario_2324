@@ -1,0 +1,10 @@
+<fichas>
+  <ficha>
+    <pais>&spain_default;</pais>
+    <provincia>&provincia_default;</provincia>
+    <direccion>...</direccion>
+    <direccion>...</direccion>
+    <posicion> madrid<latitud>38.2525</latitud><longitud>-6.225</longitud>
+    </posicion>
+  </ficha>
+</fichas>
